@@ -19,3 +19,6 @@ def show_user(username):
 def show_post(post_id):
   #returns the post, the post_id should be an int
   return str(post_id)
+
+if __name__== "__main__":
+    app.run(debug=True)
