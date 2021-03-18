@@ -1,4 +1,4 @@
 uwsgi==2.0.19.1
 flask==1.1.2
-flask-restful==1.15.0
+flask-restful==0.3.8
 boto3==1.20.27
